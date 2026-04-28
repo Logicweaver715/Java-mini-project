@@ -1,0 +1,9 @@
+Arvinth,19,Male,80.0,176.0
+Arvinth,19,Male,86.0,176.0
+ArvinthK,19,Male,80.0,176.0
+arvinth,19,Male,80.0,76.0
+arvinth,19,Male,80.0,176.0
+Vaishnav,19,Male,80.0,180.0
+SAM,19,Male,55.0,170.0
+sam,5,Male,7.0,1.0
+Sam Akash,19,Male,70.0,170.0
