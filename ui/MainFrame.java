@@ -3,7 +3,7 @@ package ui;
 import java.awt.*;
 import javax.swing.*;
 
-public class MainFrame extends JFrame {
+public class MainFrame extends JFrame{
 
     public static final String PAGE_LOGIN    = "LOGIN";
     public static final String PAGE_SIGNUP   = "SIGNUP";
@@ -29,7 +29,7 @@ public class MainFrame extends JFrame {
     private BookingUI bookingUI;
     private SupportUI supportUI;
 
-    public MainFrame() {
+    public MainFrame(){
 
         setTitle("Health & Fitness Management System");
         setSize(1280, 800);
@@ -52,7 +52,7 @@ public class MainFrame extends JFrame {
         repaint();
     }
 
-    private void initPages() {
+    private void initPages(){
 
         loginUI = new LoginUI(this);
         signupUI = new SignupUI(this);
@@ -80,7 +80,7 @@ public class MainFrame extends JFrame {
         cardPanel.add(buildAppShell(supportUI), PAGE_SUPPORT);
     }
 
-    private JPanel buildAppShell(JPanel content) {
+    private JPanel buildAppShell(JPanel content){
 
         JPanel shell = new JPanel(new BorderLayout());
 
@@ -90,7 +90,7 @@ public class MainFrame extends JFrame {
         return shell;
     }
 
-    public void showPage(String pageName) {
+    public void showPage(String pageName){
 
         cardLayout.show(cardPanel, pageName);
 
@@ -106,26 +106,26 @@ public class MainFrame extends JFrame {
         repaint();
     }
 
-    public void onLoginSuccess(String username) {
+    public void onLoginSuccess(String username){
 
         dashboardUI.setUsername(username);
         showPage(PAGE_DASH);
     }
 
-    public void onLogout() {
+    public void onLogout(){
 
         showPage(PAGE_LOGIN);
     }
 
-    public DashboardUI getDashboardUI() {
+    public DashboardUI getDashboardUI(){
         return dashboardUI;
     }
 
-    public TrackerUI getTrackerUI() {
+    public TrackerUI getTrackerUI(){
         return trackerUI;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         SwingUtilities.invokeLater(() -> {
             new MainFrame();
