@@ -84,22 +84,7 @@ The project demonstrates the implementation of **Core Java**, **Object-Oriented 
 
 # 📂 Project Structure
 
-```
-Health-Fitness-System/
-│
-├── src/
-│   ├── model/
-│   ├── service/
-│   ├── ui/
-│   ├── utils/
-│   └── Main.java
-│
-├── assets/
-│
-├── README.md
-│
-└── LICENSE
-```
+STILL A WORK IN PROGRESS
 
 ---
 
