@@ -151,19 +151,7 @@ git clone https://github.com/your-username/Health-Fitness-System.git
 
 ### Open the project
 
-Open the project folder in your preferred Java IDE.
-
-### Run
-
-Locate the file containing:
-
-```java
-public static void main(String[] args)
-```
-
-Run the project.
-
----
+STILL A WORK IN PROGRESS
 
 # 📷 Application Modules
 
@@ -209,9 +197,9 @@ This project demonstrates practical implementation of:
 
 Developed as a Java Mini Project by:
 
-- \- \[Logicweaver715](https://github.com/Logicweaver715)
-- \[Protocol-Wizard](https://github.com/Protocol-Wizard)
-- \[Kage-no-Yume](https://github.com/Kage-no-Yume)
+- \[Logicweaver715] (https://github.com/Logicweaver715)
+- \[Protocol-Wizard] (https://github.com/Protocol-Wizard)
+- \[Kage-no-Yume] (https://github.com/Kage-no-Yume)
 
 ---
 
