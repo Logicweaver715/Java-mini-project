@@ -146,7 +146,7 @@ STILL A WORK IN PROGRESS
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Logivweaver715/Java-mini-project.git
+git clone https://github.com/Logicweaver715/Java-mini-project.git
 ```
 
 ### Open the project
