@@ -146,7 +146,7 @@ STILL A WORK IN PROGRESS
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Health-Fitness-System.git
+git clone https://github.com/Logivweaver715/Java-mini-project.git
 ```
 
 ### Open the project
@@ -197,9 +197,9 @@ This project demonstrates practical implementation of:
 
 Developed as a Java Mini Project by:
 
-- \Logicweaver715 (https://github.com/Logicweaver715)
-- \Protocol-Wizard (https://github.com/Protocol-Wizard)
-- \Kage-no-Yume (https://github.com/Kage-no-Yume)
+- Logicweaver715 (https://github.com/Logicweaver715)
+- Protocol-Wizard (https://github.com/Protocol-Wizard)
+- Kage-no-Yume (https://github.com/Kage-no-Yume)
 
 ---
 
